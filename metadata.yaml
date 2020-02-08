@@ -1,0 +1,32 @@
+_repo: Essays-on-the-Microscope-Containing-a-Practical-Description-of-the-Most-Improved-Microscopes-__61169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, George
+    birthdate: 1750
+    deathdate: 1795
+    gutenberg_agent_id: '51299'
+    url: http://www.gutenberg.org/2009/agents/51299
+    wikipedia: https://en.wikipedia.org/wiki/George_Adams_(1750-1795)
+  editor:
+    agent_name: Kanmacher, Frederick
+    gutenberg_agent_id: '51294'
+    url: http://www.gutenberg.org/2009/agents/51294
+description: ''
+gutenberg_issued: '2020-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61169'
+  lccn: '07037442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Insects -- Early works to 1800'
+- !lcsh 'Microscopy -- Early works to 1800'
+- GITenberg
+title: "Essays on the Microscope\r\nContaining a Practical Description of the Most\
+  \ Improved Microscopes, a General History of Insects, etc., etc."
+url: http://www.gutenberg.org/ebooks/61169
